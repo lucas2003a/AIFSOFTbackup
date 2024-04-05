@@ -1,0 +1,8 @@
+images/
+Lotes vendidos al 31.01/
+presupuestos/
+Prototipo/
+*.bak
+*.docx
+node_modules/
+vendor/
